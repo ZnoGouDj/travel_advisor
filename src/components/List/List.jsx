@@ -31,14 +31,11 @@ const List = ({ places }) => {
         </Select>
       </FormControl>
       <Grid container spacind={3} className={classes.list}>
-        {places?.map(
-          (place, i) =>
-            place.name && (
-              <Grid item key={i} xs={12}>
-                <PlaceDetails place={place} />
-              </Grid>
-            )
-        )}
+        {places?.map((place, i) => (
+          <Grid item key={i} xs={12}>
+            <PlaceDetails place={place} />
+          </Grid>
+        ))}
       </Grid>
     </div>
   );
