@@ -1,8 +1,6 @@
-## Description:
-This application allows you to optimize your trip using a simple and intuitive wizard.
+### [Live Site](https://travelmate-v2.netlify.app/)
 
-###### Stack:
-React, Travel Advisor API, Open Weather Map API
+![Chat Application](https://i.ibb.co/QQqCpjm/Travelmate-App.png)
 
-###### Link:
-[View Project](https://travelmate-v2.netlify.app/)
+## Introduction:
+This application allows you to optimize your trip using a simple and intuitive wizard. (React, Travel Advisor API, Open Weather Map API)
